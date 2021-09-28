@@ -7,7 +7,6 @@
     <artifactId>Parking</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-
     <name>Parking</name>
     <description>Gerencimento de veiculos</description>
 
